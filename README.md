@@ -31,7 +31,7 @@ PG Life is a web application designed to help users find and manage paying guest
 ### Steps
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/pglife.git
+    git clone https://github.com/dm-mishra1578/PG_Life.git
     cd pglife
     ```
 
